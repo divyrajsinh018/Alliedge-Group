@@ -1,0 +1,37 @@
+Great! You're almost there. Since you've already done git init and have a .gitignore, here is the full step-by-step guide to push your project to GitHub using Git Bash:
+
+🚀 Step-by-Step: Push Project to GitHub
+
+✅ Step 1: Add all files
+git add .
+
+✅ Step 2: Commit your changes
+git commit -m "First commit"
+
+✅ Step 3: Create a new repository on GitHub
+Go to https://github.com.
+Click New Repository.
+Enter:
+
+Repository name (e.g., alliedge)
+
+Keep it public/private as you want
+
+DO NOT initialize with README (you already have one)
+
+Click Create repository.
+
+
+✅ Step 4: Connect your local repo to GitHub
+Copy the URL GitHub gives you (e.g., https://github.com/yourusername/alliedge.git) and run:
+
+git remote add origin https://github.com/yourusername/alliedge.git
+
+
+
+✅ Step 5: Push to GitHub
+git push -u origin main
+
+✅ Done! 🎉
+Now your project is live on GitHub!
+git status
