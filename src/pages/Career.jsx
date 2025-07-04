@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from "../assets/Services/Card.jpg";
+import Card from "../assets/Services/card.jpg";
 
 const CareerPageOne = () => {
   return (
